@@ -1,2 +1,3 @@
 config/config2.json
-
+cache/*
+.netbeans.xml
